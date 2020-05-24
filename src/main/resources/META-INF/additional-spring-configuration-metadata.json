@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "entity.manager.packages.to.scan",
+      "type": "java.lang.String",
+      "description": "Description for entity.manager.packages.to.scan."
+  }
+] }
